@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Pizza-Sales-Dashboard-Power-BI"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "56b99497-c9d3-49bf-a465-8786ea04704f"
+  }
+}
